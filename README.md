@@ -32,5 +32,5 @@ To make an informed decision in regards to manpower planning, figure out what ar
 ## 4. Visualization
 ![Viz_CompanyY](https://github.com/melsrasafebri123/CompanyY_Bitlabs/blob/main/Viz_Company%20Y.png)
 ## 5. Summary
-
+Analysis is used by the company to find out which employees deserve prizes according to their length of service at the company. This of course can increase the morale of employees.
 # THANK YOU
