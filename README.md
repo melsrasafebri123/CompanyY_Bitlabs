@@ -1,4 +1,4 @@
-# CompanyY_Bitlabs
+# Annual People Analytics Report
 Bitlabs provides a dataset from company Y for us to use for analysis.
 - Contributors : Melsra Safebri (Me)
 ## 1. Case Overview
@@ -32,4 +32,5 @@ To make an informed decision in regards to manpower planning, figure out what ar
 ## 4. Visualization
 ![Viz_CompanyY](https://github.com/melsrasafebri123/CompanyY_Bitlabs/blob/main/Viz_Company%20Y.png)
 ## 5. Summary
+
 # THANK YOU
