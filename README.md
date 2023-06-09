@@ -30,6 +30,6 @@ In terms of hiring, we wanted to ensure that we maintain roughly equal number of
 ### e. [top3DeptCity.sql](https://github.com/melsrasafebri123/CompanyY_Bitlabs/blob/main/top3DeptCity.sql)
 To make an informed decision in regards to manpower planning, figure out what are the Top 3 Department & City in terms of hiring (based on number of new joiners).
 ## 4. Visualization
-![Viz_CompanyY](https://github.com/melsrasafebri123/CompanyY_Bitlabs)
+![Viz_CompanyY](https://github.com/melsrasafebri123/CompanyY_Bitlabs/blob/main/Viz_Company%20Y.png)
 ## 5. Summary
 # THANK YOU
