@@ -1,19 +1,17 @@
 # Annual People Analytics Report
-Bitlabs provides a dataset from company Y for us to use for analysis.
+Bitlabs provides datasets from company Y for us to use for analysis.
 - Contributors : Melsra Safebri (Me)
 ## 1. Case Overview
-In order to evaluate the previously-launched initiatives, you need to write as SQL script to conduct several analyses. Some of additional informations you might need based on our previous Annual People Analytics Report:
-- We successfully retained 95,75% of our employees from the beginning of 2009 by the end of 2010.
-- From 2009 to 2010, our number of employees grew by 1,5%
+The company wants to see how many employees are still in the company. From 2009 to 2010, the company managed to retain 95.57% of employees and also increased the number of new employees by 1.5%. The company wants to see how many employees have survived and the increase in the number of employees from 2010 to 2011 compared to the previous year.
 ## 2. Dataset
-There are 2 datasets that i can't give you because it's forbidden by the company: 
-- bitlabs-dab.I-CID-05.employees_2011
+The company provides 2 datasets and is confidential
+- bitlabs-dab.I-CID-05.employees_2010
 - bitlabs-dab.I-CID-05.employees_2011
 ## 3. File Description
 ### a. [retentionRate.sql](https://github.com/melsrasafebri123/CompanyY_Bitlabs/blob/main/retentionRate.sql)
-Calculate our Employee Retention Rate from 2010 to 2011 by dividing the total number of active employees at the end of 2011 with the total number of employees from the beginning of 2010. Compare the number with our previous retention rate 2009 to 2010. 
+Calculate our Employee Retention Rate from 2010 to 2011 by dividing the total number of active employees at the end of 2011 with the total number of employees from the beginning of 2010.
 ### b. [growthRate.sql](https://github.com/melsrasafebri123/CompanyY_Bitlabs/blob/main/growthRate.sql)
-Calculate our Company Growth Rate from 2010 to 2011 by dividing the total number of active employees at the end of 2011 with the total number of active employees from the end of 2010. Compare the number with our previous growth rate from 2009 to 2010.
+Calculate our Company Growth Rate from 2010 to 2011 by dividing the total number of active employees at the end of 2011 with the total number of active employees from the end of 2010. 
 ### c. [rewardEligible.sql](https://github.com/melsrasafebri123/CompanyY_Bitlabs/blob/main/rewardEligible.sql)
 We’re going to launch a new tenure-based reward program in 2012. Only those who stayed until the end of 2011 will be eligible for this program. Calculate the total budget that we will have to allocate for this program with details as stated below (p.s. Each employee will be categorized into based on their tenure by the time the 2011 data was recorded).
 1. Tenure group 0 - 5 years: $100 / person
